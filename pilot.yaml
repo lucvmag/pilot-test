@@ -14,10 +14,10 @@
 schema_version: 1
 
 # Short name of the pilot, in lowercase with hyphens (used in URLs)
-short_name: <your-pilot-short-name>
+short_name: awesome-pilot
 
 # Human-readable name of the pilot
-name: <Your Pilot Full Name>
+name: Awesome Pilot
 
 # Short description of the pilot (one or two sentences)
 description: >
